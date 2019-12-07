@@ -1,0 +1,27 @@
+$white: #fff;
+$color-text: #777;
+$color-primary: #58e1c1;
+$color-secondary: #51ddfc;
+$color-accent1: #927bc1;
+$color-accent2: #fd7856;
+$color-accent3: #e4757a;
+$color-accent4: #63cc82;
+
+//font-family
+$font-stack: 'Lato, sans-serif';
+
+//font-weight
+$font-weight-bold: 700;
+$font-weight-light: 300;
+
+//functions
+$btn-lighten-pri: lighten($color-primary, 15%);
+$btn-lighten-sec: lighten($color-secondary, 15%);
+$btn-lighten-acc1: lighten($color-accent1, 15%);
+$btn-lighten-acc2: lighten($color-accent2, 15%);
+$btn-lighten-acc3: lighten($color-accent3, 15%);
+$btn-lighten-acc4: lighten($color-accent4, 15%);
+
+//media query breakpoint
+
+$brk-wide: '(min-width: 768px)';

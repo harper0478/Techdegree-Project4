@@ -1,0 +1,7 @@
+@mixin center ($w) {
+    min-width: $w;
+    max-width: 1400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

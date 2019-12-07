@@ -1,0 +1,40 @@
+/* ============================================= */
+/*              Buttons                          */
+/* ============================================= */
+/* line 5, ../../../Desktop/style_guide_v7/scss/components/buttons.scss */
+.btn {
+  margin-top: 15px;
+  width: 100%;
+  color: #fff;
+  border: none;
+  padding: 10px 0;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+/* line 15, ../../../Desktop/style_guide_v7/scss/components/buttons.scss */
+.default {
+  background-color: #51ddfc;
+}
+
+/* line 19, ../../../Desktop/style_guide_v7/scss/components/buttons.scss */
+.error {
+  background-color: #e4757a;
+}
+
+/* line 23, ../../../Desktop/style_guide_v7/scss/components/buttons.scss */
+.info {
+  background-color: #927bc1;
+}
+
+/* line 27, ../../../Desktop/style_guide_v7/scss/components/buttons.scss */
+.success {
+  background-color: #63cc82;
+}
+
+/* line 31, ../../../Desktop/style_guide_v7/scss/components/buttons.scss */
+.warning {
+  background-color: #fd7856;
+}
+
+/*# sourceMappingURL=buttons.css.map */
